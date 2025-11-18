@@ -1,10 +1,7 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Adityakanoi2001/Adityakanoi2001/master/assets/ASK%20Banner%20Image%20Github.png" width="100%" />
-</p>
 
 <img alt="Hand Wave" src="https://raw.githubusercontent.com/Adityakanoi2001/Adityakanoi2001/master/assets/Hand%20Wave.gif" width="40" align="left"/>
 
-# ¡Hola! Soy *Samuel de Jesus Ramirez Peña* 👋  
+# ¡Hola! Soy *Samuel de Jesus Ramirez Peña*
 ### Desarrollador Frontend • UI/UX Designer • Apasionado del IoT.. y un poco de todo la verdad
 
 ---
