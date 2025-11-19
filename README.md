@@ -1,68 +1,70 @@
-<h1 align="center">👋 Hola, soy Samuel de Jesús Ramírez Peña</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React-%2300d1a0?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/UI%2FUX-Figma-%23a259ff?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/IoT-Raspberry%20Pi-%23c51a4a?style=for-the-badge&logo=raspberrypi&logoColor=white" />
-</p>
+<h1 align="center">👋 Hi, I'm Samuel de Jesús Ramírez Peña</h1>
+<h3 align="center">Frontend Developer | UI/UX Designer | IoT & Systems Engineering Student</h3>
 
 ---
 
-## 🧑‍💻 Sobre mí  
-Desarrollador con enfoque en *Frontend, **UI/UX* e *IoT*, con experiencia creando soluciones educativas, administrativas y de automatización. Me enfoco en construir interfaces intuitivas y funcionales, especializarme en React y conectar software con hardware mediante IoT.
+## 🧑‍💻 About Me  
+I'm a *Computer Systems Engineering student* passionate about building intuitive user interfaces, developing modern web applications, and creating IoT-based solutions.  
+Currently, I'm *looking for a software engineering residency from January 1st to June 30th, 2026*.
 
-🎓 Estudiante de *Ingeniería en Sistemas Computacionales*  
-📅 En búsqueda de *residencia profesional* del *1 de enero al 30 de junio de 2026*  
-🧩 Estilo de desarrollo: minimalista, limpio y estructurado  
-
----
-
-## 🚀 Tecnologías que manejo
-
-### 🟦 *Lenguajes*
-
-Java · C# · JavaScript · TypeScript · Python · C · Ensamblador (TASM/MASM)
-
-### 🎨 *Frontend*
-
-React · React DOM · React Router · TailwindCSS · Bootstrap HTML5 · CSS3 · JavaScript · Lucide React · UI/UX (Figma)
-
-### ⚙ *Backend / APIs*
-
-Node.js · Express · .NET · Supabase · REST APIs
-
-### 🗄 *Bases de datos*
-
-MySQL · SQL Server · SQL Workbench · SQLite · Supabase (PostgreSQL)
-
-### 🤖 *IoT & Hardware*
-
-Arduino · ESP32 · Raspberry Pi · MQTT · HTTP · Sensores
-
-### 🛠 *Herramientas*
-
-Git · GitHub · VS Code · Visual Studio · XAMPP · Postman
+I enjoy combining *design + code*, always focusing on clean architectures, good UX, and efficient solutions.
 
 ---
 
-## 📈 GitHub Stats (modo oscuro)
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=samjack5&show_icons=true&theme=dark&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=samjack5&theme=dark&hide_border=true" />
-</div>
+## 🛠 Tech Stack
+
+### *Frontend*
+- React, React Router, React DOM  
+- JavaScript (ES6+), TypeScript  
+- Tailwind CSS, Bootstrap  
+- UI Libraries: shadcn/ui, Lucide React  
+
+### *Backend & Databases*
+- Node.js  
+- Supabase  
+- SQL Server  
+- MySQL Workbench  
+- SQLite  
+
+### *Embedded & IoT*
+- ESP32, Arduino  
+- MQTT, HTTP  
+- Raspberry Pi  
+
+### *Other Tools*
+- Figma (UI/UX Design)  
+- Git & GitHub  
+- .NET  
+- REST APIs  
 
 ---
 
-## 🌐 Contáctame
-<p align="center">
-  <a href="mailto:samramirez0403@gmail.com"><img src="https://img.shields.io/badge/Correo-Enviar-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/samuel-de-jesus-ramirez-peña-6a11472b1"><img src="https://img.shields.io/badge/LinkedIn-Conectar-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/samjack5"><img src="https://img.shields.io/badge/GitHub-Perfil-%23181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.instagram.com/samuelpena_"><img src="https://img.shields.io/badge/Instagram-Perfil-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
+## 🚀 Featured Projects
+
+### 🧠 *Expert System for Disease Management*  
+*Tech:* React, React Router, Supabase, Tailwind, Lucide  
+- A medical-oriented expert system with dynamic routing and database integration.
+
+### 💪 *Sports Center Management System*  
+*Tech:* React, SQLite, Tailwind, Lucide  
+- Handles clients, memberships, administrators, payments, and discipline schedules.
+
+### 🌱 *Smart Greenhouse (IoT)*  
+*Tech:* HTML, CSS, Python, MQTT, HTTP, Raspberry Pi  
+- Intelligent greenhouse built during a diploma program.
+
+### 🎓 *Student Control System for an Institute*  
+*Tech:* .NET, REST API, Bootstrap  
+- Used for student administrative control.
 
 ---
 
-<p align="center">
-  <sub>✨Gracias por darte una vuelta por mi perfil ✨</sub>
-</p>
+## 🌐 Social Links  
+- *GitHub:* https://github.com/samjack5  
+- *LinkedIn:* www.linkedin.com/in/samuel-de-jesus-ramirez-peña-6a11472b1  
+- *Instagram:* https://www.instagram.com/samuelpena_
+
+---
+
+## 📩 Contact Me  
+If you're interested in working together or have any questions, feel free to reach out!
