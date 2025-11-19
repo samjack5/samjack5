@@ -45,59 +45,6 @@ Git · GitHub · VS Code · Visual Studio · XAMPP · Postman
 
 ---
 
-## 📌 Proyectos destacados
-
-### ⭐ *Edu-TEC*  
-Aplicación educativa para el aprendizaje infantil.  
-- Rol: UI/UX completo  
-- Tecnologías: *Figma*, prototipado interactivo  
-- Diseño orientado a accesibilidad y experiencia lúdica
-
-### ⭐ *Denti-Pay*  
-Gestor de pagos y clientes para consultorio dental.  
-- Rol: UI/UX en Figma  
-- Interfaces modernas, minimalistas y profesionales
-
-### ⭐ *Sistema Experto de Enfermedades*  
-Aplicación para gestión y diagnóstico básico.  
-- React + JavaScript  
-- React Router  
-- Supabase (PostgreSQL)  
-- TailwindCSS  
-- Lucide React  
-- Autenticación + panel dinámico
-
-### ⭐ *Gestor Deportivo*  
-Sistema administrativo para un centro deportivo: pagos, empleados, membresías.  
-- React + JavaScript  
-- SQLite  
-- TailwindCSS  
-- Lucide React  
-- CRUD completo y diseño modular
-
-### ⭐ *Invernadero Inteligente IoT (Samsung)*  
-Solución IoT con sensores y automatización.  
-- Raspberry Pi + Python  
-- MQTT + HTTP  
-- HTML y CSS  
-- Dashboard en tiempo real  
-- Automatización basada en datos
-
-### ⭐ *Control de Alumnos (Instituto)*  
-Sistema para administración escolar.  
-- .NET  
-- API REST  
-- Bootstrap  
-- Roles, reportes y panel administrativo
-
-### ⭐ *Asistente IA para Taller de Matemáticas*  
-Asistente educativo para apoyo escolar.  
-- HTML + CSS + JavaScript  
-- Diseño simple, accesible y funcional  
-- Integración con IA para resolver ejercicios
-
----
-
 ## 📈 GitHub Stats (modo oscuro)
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=samjack5&show_icons=true&theme=dark&hide_border=true" />
